@@ -4,7 +4,7 @@ An AI-assisted Product Management case study that turns synthetic, unstructured 
 
 > **AI assists. Evidence supports. PM decides.**
 
-![Customer Feedback Overview](docs/images/prototype-overview.jpeg)
+![Customer Feedback Overview](docs/images/prototype-overview.png)
 
 📄 **Case study deck:** [PDF](demo/Voice_of_Customer_AI_Copilot_Portfolio_Case_Study_Final_v4.pdf) · [PPTX](demo/Voice_of_Customer_AI_Copilot_Portfolio_Case_Study_Final_v4.pptx)
 
@@ -55,25 +55,25 @@ Faster synthesis, earlier visibility into recurring friction, and evidence-backe
 
 ### 1. Overview: where is customer friction showing up?
 
-![Overview screen](docs/images/prototype-overview.jpeg)
+![Overview screen](docs/images/prototype-overview.png)
 
-The overview summarizes all 150 synthetic feedback records (July–August 2026) by theme and highlights **Emerging Signals**, which are candidate pain points for PM investigation rather than automatic priorities. In this dataset, *Document Upload* stands out as a candidate pain point: 30 records, 20.0% of all feedback, and 16 rated Medium/High.
+The overview summarizes all 150 synthetic feedback records (Jul 1 – Aug 31, 2026). Headline tiles show 7 themes, 105 negative records (70.0%), and 79 Medium + High severity records (52.7%). Below them are feedback by theme and the sentiment and severity distributions. **Emerging Signals** lists candidate pain points for PM investigation rather than automatic priorities. *Document Upload* is flagged as the candidate pain point: 30 records, 20.0% of all feedback, and 16 rated Medium/High. *Claim Status* and *Customer Support* are listed as emerging signals available for review.
 
 ### 2. Insights: what does the AI summary say, and what supports it?
 
-![Insights screen](docs/images/prototype-insights.jpeg)
+![Insights screen](docs/images/prototype-insights.png)
 
-Each insight follows a visible chain: **AI Summary → Supporting Metrics → Original Customer Evidence**. The AI summary is labeled *"Verify against supporting evidence."* Supporting metrics show the theme's volume, negative share, and impact-based severity. They also compare its share of monthly feedback: 13.6% in July and 25.0% in August, a change of +11.4 percentage points. The screen presents this as an observation only: further investigation is needed to understand the cause.
+Each insight follows a visible chain: **AI Summary → Supporting Metrics → Original Customer Evidence**. The AI summary is labeled *"Verify against supporting evidence."* Supporting metrics show the theme's volume (30), negative records (26, 86.7%), Medium/High severity (16), and share of all feedback (20.0%). They also compare its share of monthly feedback: 13.6% in July and 25.0% in August, a change of +11.4 percentage points. The screen presents this as an observation only: further investigation is needed to understand the cause. The page also lists **recurring patterns** (uncertainty about upload confirmation, repeated document requests after upload, and missing-document messages after upload) and previews the original feedback behind them.
 
 ### 3. Evidence: read the original feedback
 
-![Evidence screen](docs/images/prototype-evidence.jpeg)
+![Evidence screen](docs/images/prototype-evidence.png)
 
-AI-generated insights stay connected to the original customer feedback, so a PM can verify the evidence instead of trusting a summary. Records can be filtered by severity, sentiment, and channel.
+AI-generated insights stay connected to the original customer feedback, so a PM can verify the evidence instead of trusting a summary. The table (scrollable, 8 rows visible at a time) lists all 30 Document Upload records with their ID, text, date, channel, journey stage, sentiment, and severity, and can be filtered by severity, sentiment, and channel.
 
 ### 4. Product Actions: turn the insight into an investigation
 
-![Product Actions screen](docs/images/prototype-product-actions.jpeg)
+![Product Actions screen](docs/images/prototype-product-actions.png)
 
 The AI proposes a problem statement as a *suggested starting point*, explicitly *"a synthesis of feedback, not a proven root cause."* The PM rewrites the framing in their own words, works through guiding investigation questions, sets a decision status (for example, *Needs Investigation*), and adds notes.
 
@@ -214,15 +214,17 @@ For a slide-by-slide evidence map, see [`docs/portfolio_file_map.md`](docs/portf
 
 ### Web prototype
 
-Requires Node.js and pnpm (npm also works).
+Requires Node.js and pnpm. If pnpm isn't installed, run `npx pnpm@10` in place of `pnpm`.
 
 ```bash
 cd web-prototype
-pnpm install
-pnpm dev        # or: npm install && npm run dev
+pnpm install --frozen-lockfile
+pnpm dev
 ```
 
-Open the local URL Vite prints, normally <http://localhost:5173>.
+Open the local URL Vite prints, normally <http://localhost:5173>. The four screens are at `/overview`, `/insights/document-upload`, `/evidence/document-upload`, and `/product-action/document-upload`. You can also click through them starting from **View Insight** on the overview.
+
+`pnpm build` produces a static build in `web-prototype/dist/`.
 
 ### Python scripts
 
