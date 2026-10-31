@@ -1,0 +1,25 @@
+﻿feedback_id,theme_prediction,feedback_type_prediction,sentiment_prediction,severity_prediction
+HOLD001,Document Requirements,Information Need,Neutral,No Issue
+HOLD002,Document Requirements,Process Friction,Negative,High
+HOLD003,Document Requirements,Improvement Request,Neutral,Low
+HOLD004,Document Upload,Technical Issue,Negative,Medium
+HOLD005,Document Upload,Process Friction,Negative,Medium
+HOLD006,Document Upload,Improvement Request,Neutral,Low
+HOLD007,Claim Submission & Form,Information Need,Neutral,Low
+HOLD008,Claim Submission & Form,Technical Issue,Negative,Medium
+HOLD009,Claim Submission & Form,Compliment,Positive,No Issue
+HOLD010,Claim Status,Information Need,Neutral,Low
+HOLD011,Claim Status,Technical Issue,Negative,Medium
+HOLD012,Claim Status,Improvement Request,Neutral,Low
+HOLD013,Reimbursement,Improvement Request,Neutral,Low
+HOLD014,Reimbursement,Technical Issue,Negative,High
+HOLD015,Reimbursement,Compliment,Positive,No Issue
+HOLD016,Login & Account,Technical Issue,Negative,Medium
+HOLD017,Login & Account,Technical Issue,Negative,Medium
+HOLD018,Login & Account,Improvement Request,Neutral,Low
+HOLD019,Customer Support,Compliment,Positive,No Issue
+HOLD020,Customer Support,Process Friction,Negative,Medium
+HOLD021,Customer Support,Technical Issue,Negative,Medium
+HOLD022,General Experience,Process Friction,Negative,Low
+HOLD023,General Experience,Compliment,Positive,Low
+HOLD024,General Experience,Improvement Request,Neutral,Low

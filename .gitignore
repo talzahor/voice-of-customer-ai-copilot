@@ -1,0 +1,19 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Node / Vite
+node_modules/
+dist/
+
+# Secrets
+.env
+.env.*
+
+# OS / IDE / Office
+.DS_Store
+.idea/
+.vscode/
+~$*

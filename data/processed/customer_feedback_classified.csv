@@ -1,0 +1,151 @@
+﻿feedback_id,date,channel,journey_stage,feedback_text,theme,sentiment,severity
+F030,2026-07-01,Post-Service Survey,Claim Submission,"Honestly, Not sure whether my receipt was uploaded successfully.",Document Upload,Negative,Low
+F103,2026-07-01,Post-Service Survey,General Support,I waited too long to get an answer from customer support.,Customer Support,Negative,Medium
+F003,2026-07-02,App Review,Claim Submission,I don't understand which documents I need to upload for my claim.,Document Requirements,Negative,Low
+F024,2026-07-02,Chat,Claim Submission,The document requirements are really unclear.,Document Requirements,Negative,Low
+F134,2026-07-02,Post-Service Survey,Claim Submission,I don't understand which documents I need to upload for my claim.,Document Requirements,Negative,Low
+F009,2026-07-03,Support Call,Login & Account,I can't log into my account even after resetting my password.,Login & Access,Negative,High
+F054,2026-07-03,App Review,Claim Submission,The document requirements are really unclear.,Document Requirements,Negative,Low
+F065,2026-07-03,Post-Service Survey,Claim Submission,I need clearer instructions about what paperwork is required.,Document Requirements,Negative,Low
+F035,2026-07-04,Chat,Claim Tracking,My claim has been in progress for days and I have no idea what's happening.,Claim Status,Negative,Medium
+F043,2026-07-04,Chat,Claim Submission,"Honestly, I got an answer quickly and the service was helpful.",Customer Support,Positive,None
+F031,2026-07-05,Chat,Reimbursement,When will the approved reimbursement be paid?,Reimbursement,Neutral,Low
+F048,2026-07-05,Support Call,Reimbursement,This is frustrating. I need a clearer explanation of how my reimbursement was calculated.,Reimbursement,Negative,Low
+F100,2026-07-05,Post-Service Survey,Reimbursement,I don't know when the reimbursement will reach my bank account.,Reimbursement,Neutral,Low
+F008,2026-07-06,Support Call,Reimbursement,I need a clearer explanation of how my reimbursement was calculated.,Reimbursement,Neutral,Low
+F112,2026-07-06,Post-Service Survey,Claim Tracking,I keep checking the app because the claim status never changes.,Claim Status,Negative,Medium
+F137,2026-07-06,Support Call,Claim Tracking,There hasn't been any update on my claim.,Claim Status,Neutral,Low
+F006,2026-07-07,Post-Service Survey,Claim Submission,I need clearer instructions about what paperwork is required.,Document Requirements,Negative,Low
+F029,2026-07-08,Chat,Claim Submission,Please help — I need clearer instructions about what paperwork is required.,Document Requirements,Negative,Medium
+F140,2026-07-08,Support Call,Login & Account,The claim process was faster than I expected.,Claim Status,Positive,None
+F018,2026-07-10,App Review,Login & Account,I keep getting an error when I try to sign in.,Login & Access,Negative,High
+F041,2026-07-10,Support Call,Claim Submission,I don't understand which documents I need to upload for my claim.,Document Requirements,Negative,Low
+F012,2026-07-11,Chat,Claim Tracking,I keep checking the app because the claim status never changes.,Claim Status,Negative,Medium
+F098,2026-07-11,Support Call,Reimbursement,The payment amount is different from what I expected.,Reimbursement,Neutral,Low
+F127,2026-07-11,Chat,Claim Submission,I can't tell if the file I sent was actually received.,Document Upload,Negative,Low
+F059,2026-07-12,Chat,Login & Account,Password reset is not working for me.,Login & Access,Negative,High
+F096,2026-07-13,App Review,General Support,The chatbot couldn't answer my question and sent me to call support.,Customer Support,Negative,Medium
+F015,2026-07-14,Chat,Login & Account,Please help — Password reset is not working for me.,Login & Access,Negative,High
+F039,2026-07-14,App Review,General Support,The chatbot couldn't answer my question and sent me to call support.,Customer Support,Negative,Medium
+F004,2026-07-15,Chat,Claim Tracking,My claim has been in progress for days and I have no idea what's happening.,Claim Status,Negative,Medium
+F061,2026-07-15,Chat,Claim Submission,I need clearer instructions about what paperwork is required.,Document Requirements,Negative,Low
+F062,2026-07-15,Support Call,Claim Submission,It keeps showing missing documents even though I uploaded everything.,Document Upload,Negative,Medium
+F075,2026-07-15,Support Call,General Support,I waited too long to get an answer from customer support.,Customer Support,Negative,Medium
+F123,2026-07-16,App Review,Claim Submission,Not sure whether my receipt was uploaded successfully.,Document Upload,Neutral,Low
+F027,2026-07-17,Chat,Reimbursement,When will the approved reimbursement be paid?,Reimbursement,Neutral,Low
+F040,2026-07-17,App Review,Login & Account,The app was easy to use this time.,General Experience,Positive,None
+F067,2026-07-17,Chat,Claim Submission,I don't understand which documents I need to upload for my claim.,Document Requirements,Negative,Low
+F094,2026-07-17,Support Call,General Support,I waited too long to get an answer from customer support.,Customer Support,Negative,Medium
+F052,2026-07-18,Post-Service Survey,Claim Tracking,I keep checking the app because the claim status never changes.,Claim Status,Negative,Medium
+F060,2026-07-18,App Review,Claim Submission,It keeps showing missing documents even though I uploaded everything.,Document Upload,Negative,Medium
+F084,2026-07-18,App Review,Claim Tracking,Please help — My claim has been in progress for days and I have no idea what's happening.,Claim Status,Negative,Medium
+F116,2026-07-18,Support Call,Login & Account,I keep getting an error when I try to sign in.,Login & Access,Negative,High
+F118,2026-07-18,Chat,Claim Submission,The document requirements are really unclear.,Document Requirements,Negative,Low
+F128,2026-07-19,Post-Service Survey,Login & Account,I can't log into my account even after resetting my password.,Login & Access,Negative,High
+F144,2026-07-20,App Review,Reimbursement,"Honestly, When will the approved reimbursement be paid?",Reimbursement,Neutral,Low
+F106,2026-07-21,Chat,General Support,I had to explain the same issue again to another representative.,Customer Support,Negative,Medium
+F109,2026-07-22,Support Call,Claim Tracking,I keep checking the app because the claim status never changes.,Claim Status,Negative,Medium
+F114,2026-07-23,Support Call,Login & Account,The app logged me out and I can't get back in.,Login & Access,Negative,High
+F017,2026-07-24,Support Call,Claim Submission,"Honestly, I can't tell if the file I sent was actually received.",Document Upload,Negative,Medium
+F068,2026-07-24,Support Call,Claim Tracking,When should I expect the next update on my claim?,Claim Status,Neutral,Low
+F010,2026-07-25,Chat,Claim Tracking,I wish the claim status explained what stage my request is in.,Claim Status,Neutral,Low
+F014,2026-07-26,Post-Service Survey,Claim Tracking,When should I expect the next update on my claim?,Claim Status,Neutral,Low
+F044,2026-07-26,Support Call,Claim Submission,Not sure whether my receipt was uploaded successfully.,Document Upload,Neutral,Low
+F070,2026-07-26,App Review,Login & Account,The verification code never arrived.,Login & Access,Negative,High
+F034,2026-07-28,Support Call,Claim Tracking,I keep checking the app because the claim status never changes.,Claim Status,Negative,Medium
+F066,2026-07-28,Chat,Reimbursement,I don't know when the reimbursement will reach my bank account.,Reimbursement,Neutral,Low
+F082,2026-07-29,App Review,Claim Tracking,I keep checking the app because the claim status never changes.,Claim Status,Negative,Medium
+F124,2026-07-29,Post-Service Survey,Reimbursement,The claim process was faster than I expected.,Claim Status,Positive,None
+F133,2026-07-29,Post-Service Survey,Claim Submission,It keeps showing missing documents even though I uploaded everything.,Document Upload,Negative,Medium
+F021,2026-07-30,Support Call,Claim Submission,I uploaded the medical form already and it still asks me for documents.,Document Upload,Negative,High
+F047,2026-07-30,Support Call,Claim Tracking,My claim has been in progress for days and I have no idea what's happening.,Claim Status,Negative,Medium
+F073,2026-07-30,Chat,Claim Tracking,When should I expect the next update on my claim?,Claim Status,Neutral,Low
+F076,2026-07-30,App Review,Claim Tracking,I wish the claim status explained what stage my request is in.,Claim Status,Neutral,Low
+F093,2026-07-30,App Review,Claim Tracking,There hasn't been any update on my claim.,Claim Status,Neutral,Low
+F147,2026-07-30,Chat,Reimbursement,The payment amount is different from what I expected.,Reimbursement,Neutral,Low
+F113,2026-07-31,Post-Service Survey,Reimbursement,When will the approved reimbursement be paid?,Reimbursement,Neutral,Low
+F120,2026-07-31,Post-Service Survey,Reimbursement,The payment amount is different from what I expected.,Reimbursement,Neutral,Low
+F077,2026-08-01,Support Call,Claim Tracking,I keep checking the app because the claim status never changes.,Claim Status,Negative,Medium
+F089,2026-08-01,App Review,Claim Submission,This is frustrating. I can't tell if the file I sent was actually received.,Document Upload,Negative,Medium
+F108,2026-08-01,Post-Service Survey,General Support,It took too long to reach someone who could help me.,Customer Support,Negative,Medium
+F053,2026-08-02,Post-Service Survey,Claim Tracking,My claim has been in progress for days and I have no idea what's happening.,Claim Status,Negative,Medium
+F146,2026-08-02,Chat,Login & Account,Password reset is not working for me.,Login & Access,Negative,High
+F019,2026-08-03,Support Call,Claim Submission,I don't understand which documents I need to upload for my claim.,Document Requirements,Negative,Low
+F110,2026-08-03,App Review,Claim Submission,I got an answer quickly and the service was helpful.,Customer Support,Positive,None
+F036,2026-08-04,Chat,Claim Tracking,I wish the claim status explained what stage my request is in.,Claim Status,Neutral,Low
+F086,2026-08-04,App Review,Claim Tracking,I wish the claim status explained what stage my request is in.,Claim Status,Neutral,Low
+F102,2026-08-04,Post-Service Survey,Claim Tracking,My claim has been in progress for days and I have no idea what's happening.,Claim Status,Negative,Medium
+F150,2026-08-04,App Review,Claim Tracking,When should I expect the next update on my claim?,Claim Status,Neutral,Low
+F055,2026-08-05,Post-Service Survey,Claim Submission,I uploaded the medical form already and it still asks me for documents.,Document Upload,Negative,High
+F072,2026-08-05,Post-Service Survey,General Support,I had to explain the same issue again to another representative.,Customer Support,Negative,Medium
+F079,2026-08-05,Post-Service Survey,Claim Submission,I can't tell if the file I sent was actually received.,Document Upload,Negative,Low
+F111,2026-08-05,Support Call,Login & Account,Password reset is not working for me.,Login & Access,Negative,High
+F122,2026-08-06,Support Call,Reimbursement,This is frustrating. The payment amount is different from what I expected.,Reimbursement,Negative,Medium
+F125,2026-08-06,Chat,Reimbursement,I don't know when the reimbursement will reach my bank account.,Reimbursement,Neutral,Low
+F135,2026-08-06,App Review,Claim Submission,I can't tell if the file I sent was actually received.,Document Upload,Negative,Low
+F056,2026-08-07,Support Call,Reimbursement,This is frustrating. The payment amount is different from what I expected.,Reimbursement,Negative,Medium
+F099,2026-08-07,Chat,Claim Submission,It keeps showing missing documents even though I uploaded everything.,Document Upload,Negative,Medium
+F131,2026-08-08,App Review,Login & Account,The app logged me out and I can't get back in.,Login & Access,Negative,High
+F045,2026-08-09,Chat,Claim Submission,I need clearer instructions about what paperwork is required.,Document Requirements,Negative,Low
+F050,2026-08-09,Post-Service Survey,General Support,The process was clear and easy to complete.,General Experience,Positive,None
+F105,2026-08-09,Post-Service Survey,General Support,It took too long to reach someone who could help me.,Customer Support,Negative,Medium
+F001,2026-08-10,Support Call,Claim Submission,Not sure whether my receipt was uploaded successfully.,Document Upload,Neutral,Low
+F083,2026-08-10,Chat,Claim Submission,The app says a document is missing but doesn't tell me which one.,Document Requirements,Negative,Medium
+F104,2026-08-10,Post-Service Survey,General Support,The chatbot couldn't answer my question and sent me to call support.,Customer Support,Negative,Medium
+F119,2026-08-10,Post-Service Survey,General Support,I waited too long to get an answer from customer support.,Customer Support,Negative,Medium
+F126,2026-08-10,Support Call,Claim Submission,I uploaded the medical form already and it still asks me for documents.,Document Upload,Negative,High
+F142,2026-08-10,Chat,Claim Tracking,I wish the claim status explained what stage my request is in.,Claim Status,Neutral,Low
+F130,2026-08-11,Post-Service Survey,Claim Submission,Please help — I uploaded the medical form already and it still asks me for documents.,Document Upload,Negative,High
+F011,2026-08-12,Chat,Claim Submission,I uploaded the medical form already and it still asks me for documents.,Document Upload,Negative,High
+F046,2026-08-12,Post-Service Survey,Login & Account,The app logged me out and I can't get back in.,Login & Access,Negative,High
+F074,2026-08-12,Post-Service Survey,Claim Submission,Please help — I need clearer instructions about what paperwork is required.,Document Requirements,Negative,Medium
+F097,2026-08-12,Post-Service Survey,Claim Submission,I can't tell if the file I sent was actually received.,Document Upload,Negative,Low
+F141,2026-08-12,App Review,General Support,This is frustrating. It took too long to reach someone who could help me.,Customer Support,Negative,Medium
+F002,2026-08-13,Support Call,Login & Account,I can't log into my account even after resetting my password.,Login & Access,Negative,High
+F013,2026-08-13,Post-Service Survey,Claim Submission,Not sure whether my receipt was uploaded successfully.,Document Upload,Neutral,Low
+F020,2026-08-13,Chat,General Support,I had to explain the same issue again to another representative.,Customer Support,Negative,Medium
+F071,2026-08-13,App Review,Login & Account,I keep getting an error when I try to sign in.,Login & Access,Negative,High
+F005,2026-08-14,Post-Service Survey,Claim Tracking,I wish the claim status explained what stage my request is in.,Claim Status,Neutral,Low
+F085,2026-08-14,Post-Service Survey,Claim Submission,The app says a document is missing but doesn't tell me which one.,Document Requirements,Negative,Medium
+F132,2026-08-14,App Review,Claim Submission,The document requirements are really unclear.,Document Requirements,Negative,Low
+F028,2026-08-15,App Review,Claim Submission,I can't tell if the file I sent was actually received.,Document Upload,Negative,Low
+F032,2026-08-16,App Review,General Support,The claim process was faster than I expected.,Claim Status,Positive,None
+F069,2026-08-16,Post-Service Survey,General Support,I had to explain the same issue again to another representative.,Customer Support,Negative,Medium
+F090,2026-08-16,Support Call,Claim Submission,I uploaded the medical form already and it still asks me for documents.,Document Upload,Negative,High
+F115,2026-08-16,App Review,Claim Submission,I uploaded the medical form already and it still asks me for documents.,Document Upload,Negative,High
+F016,2026-08-17,App Review,Reimbursement,I received a payment but I don't understand the amount.,Reimbursement,Neutral,Low
+F042,2026-08-17,Chat,Claim Submission,I can't tell if the file I sent was actually received.,Document Upload,Negative,Low
+F023,2026-08-18,App Review,Claim Submission,I don't understand which documents I need to upload for my claim.,Document Requirements,Negative,Low
+F026,2026-08-18,Chat,Claim Tracking,I wish the claim status explained what stage my request is in.,Claim Status,Neutral,Low
+F107,2026-08-18,Support Call,Claim Tracking,I keep checking the app because the claim status never changes.,Claim Status,Negative,Medium
+F078,2026-08-19,Support Call,Claim Tracking,I keep checking the app because the claim status never changes.,Claim Status,Negative,Medium
+F129,2026-08-20,Chat,General Support,The chatbot couldn't answer my question and sent me to call support.,Customer Support,Negative,Medium
+F007,2026-08-21,App Review,Claim Submission,The app says a document is missing but doesn't tell me which one.,Document Requirements,Negative,Medium
+F033,2026-08-21,Post-Service Survey,Claim Tracking,My claim has been in progress for days and I have no idea what's happening.,Claim Status,Negative,Medium
+F139,2026-08-22,Post-Service Survey,Login & Account,This is frustrating. Password reset is not working for me.,Login & Access,Negative,High
+F149,2026-08-22,App Review,Claim Submission,I can't tell if the file I sent was actually received.,Document Upload,Negative,Low
+F081,2026-08-23,App Review,General Support,The chatbot couldn't answer my question and sent me to call support.,Customer Support,Negative,Medium
+F117,2026-08-23,Chat,Claim Submission,"Honestly, I need clearer instructions about what paperwork is required.",Document Requirements,Neutral,Low
+F101,2026-08-24,Post-Service Survey,Login & Account,I keep getting an error when I try to sign in.,Login & Access,Negative,High
+F138,2026-08-24,App Review,Claim Submission,I can't tell if the file I sent was actually received.,Document Upload,Negative,Low
+F022,2026-08-25,Post-Service Survey,Reimbursement,I received a payment but I don't understand the amount.,Reimbursement,Neutral,Low
+F037,2026-08-25,Support Call,Login & Account,"Honestly, The claim process was faster than I expected.",General Experience,Positive,None
+F092,2026-08-25,Chat,Claim Tracking,There hasn't been any update on my claim.,Claim Status,Neutral,Low
+F148,2026-08-25,Post-Service Survey,Claim Submission,I need clearer instructions about what paperwork is required.,Document Requirements,Negative,Low
+F025,2026-08-26,Support Call,Reimbursement,I don't know when the reimbursement will reach my bank account.,Reimbursement,Neutral,Low
+F049,2026-08-26,Post-Service Survey,Claim Submission,I uploaded the medical form already and it still asks me for documents.,Document Upload,Negative,High
+F057,2026-08-27,Chat,Claim Tracking,I keep checking the app because the claim status never changes.,Claim Status,Negative,Medium
+F087,2026-08-27,Support Call,Login & Account,I keep getting an error when I try to sign in.,Login & Access,Negative,High
+F091,2026-08-28,Chat,Claim Tracking,I keep checking the app because the claim status never changes.,Claim Status,Negative,Medium
+F136,2026-08-28,App Review,Claim Submission,It keeps showing missing documents even though I uploaded everything.,Document Upload,Negative,Medium
+F038,2026-08-29,App Review,Login & Account,The verification code never arrived.,Login & Access,Negative,High
+F051,2026-08-29,Chat,Reimbursement,"Honestly, I need a clearer explanation of how my reimbursement was calculated.",Reimbursement,Neutral,Low
+F058,2026-08-29,Support Call,Claim Tracking,I got an answer quickly and the service was helpful.,Customer Support,Positive,None
+F143,2026-08-29,Chat,Claim Submission,Please help — The app says a document is missing but doesn't tell me which one.,Document Requirements,Negative,Medium
+F064,2026-08-30,Post-Service Survey,Claim Submission,I uploaded the medical form already and it still asks me for documents.,Document Upload,Negative,High
+F080,2026-08-30,App Review,Login & Account,I keep getting an error when I try to sign in.,Login & Access,Negative,High
+F088,2026-08-30,Chat,Claim Tracking,The status just says in progress and gives me no useful information.,Claim Status,Negative,Low
+F095,2026-08-30,Chat,Claim Tracking,"Honestly, I keep checking the app because the claim status never changes.",Claim Status,Neutral,Medium
+F121,2026-08-30,Support Call,General Support,I waited too long to get an answer from customer support.,Customer Support,Negative,Medium
+F145,2026-08-30,Post-Service Survey,Claim Submission,I can't tell if the file I sent was actually received.,Document Upload,Negative,Low
+F063,2026-08-31,Post-Service Survey,General Support,I would rather solve this online than call customer service.,Customer Support,Neutral,None

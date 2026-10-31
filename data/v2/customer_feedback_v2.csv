@@ -1,0 +1,151 @@
+﻿feedback_id,date,channel,journey_stage,feedback_text
+V2F001,2026-08-22,Post-Service Survey,Claim Submission,"The checklist says I need proof of treatment, but I cannot tell whether that means the doctor's summary or the invoice."
+V2F002,2026-08-16,App Review,Claim Submission,Which document should show the diagnosis? The form only says 'medical evidence.'
+V2F003,2026-07-08,Support Call,Claim Submission,I have the receipt and referral. Please clarify whether a treatment report is also required.
+V2F004,2026-07-10,Support Call,Claim Submission,"The document list uses different names from the papers my clinic gave me, so I am not sure what matches what."
+V2F005,2026-08-05,App Review,Claim Submission,"Do I need to submit the original invoice, or is a photo of it acceptable?"
+V2F006,2026-08-28,Chat,Claim Submission,I started a claim but stopped at the paperwork step because I could not work out which forms applied to my case.
+V2F007,2026-07-11,Support Call,Claim Submission,"The checklist is short, which is nice, but the item called supporting documentation needs an example."
+V2F008,2026-07-31,Support Call,Claim Submission,My claim says one document is missing without naming it. I cannot complete the request until I know what to provide.
+V2F009,2026-07-10,App Review,Claim Submission,Could the requirements explain what is optional and what is mandatory? Right now every item looks the same.
+V2F010,2026-08-25,Support Call,Claim Submission,I am filing for two treatments on the same claim. Is one medical letter enough for both?
+V2F011,2026-08-30,Post-Service Survey,Claim Submission,The clinic gave me a discharge note in Hebrew and an invoice in English. I need to know whether translations are required.
+V2F012,2026-08-26,App Review,Claim Submission,"I understand that documents are needed, but I do not know which proof is expected for an online consultation."
+V2F013,2026-07-18,Support Call,Claim Submission,It would help to see the required paperwork before starting the claim instead of discovering each item one screen at a time.
+V2F014,2026-07-14,Post-Service Survey,Claim Submission,The form asks for a provider statement. Is that different from the medical report I already have?
+V2F015,2026-07-08,Chat,Claim Submission,I called only to ask which receipt format is accepted. The requirement itself should be clearer online.
+V2F016,2026-07-26,Support Call,Claim Submission,"The upload reached 100%, then the page returned to the empty upload box. I do not know if the file stayed attached."
+V2F017,2026-07-06,Chat,Claim Submission,I submitted three files and received confirmation for only two of them.
+V2F018,2026-07-12,Post-Service Survey,Claim Submission,"My PDF is within the stated size limit, but the app rejects it without explaining why."
+V2F019,2026-07-16,App Review,Claim Submission,"After attaching the invoice, the filename appeared for a moment and then disappeared."
+V2F020,2026-07-16,Post-Service Survey,Claim Submission,The claim still shows 'documents required' even though I uploaded the requested form yesterday.
+V2F021,2026-08-26,App Review,Claim Submission,I took a photo of the receipt in the app. There was no message telling me whether it was readable or received.
+V2F022,2026-07-07,Chat,Claim Submission,Upload failed twice on mobile data and worked when I switched to Wi-Fi. An error message would have saved time.
+V2F023,2026-07-18,App Review,Claim Submission,The same medical report has been requested again. It is already listed in my submitted files.
+V2F024,2026-07-20,Support Call,Claim Submission,Can someone confirm whether claim_attachment.pdf arrived? I do not want to send sensitive paperwork twice.
+V2F025,2026-07-20,Post-Service Survey,Claim Submission,"The upload button becomes inactive after I select a file, so I cannot finish submitting the claim."
+V2F026,2026-08-29,Post-Service Survey,Claim Submission,"I added the referral and pressed continue, but the review screen does not show it."
+V2F027,2026-07-09,Post-Service Survey,Claim Submission,Receipt upload worked first time.
+V2F028,2026-07-30,Support Call,Claim Submission,I accidentally chose the wrong file and could not find a way to remove it before submission.
+V2F029,2026-07-08,Post-Service Survey,Claim Submission,"The portal says the attachment type is unsupported, although it is a JPG from my phone."
+V2F030,2026-07-17,App Review,Claim Submission,"I received an email saying my documents were received, while the app still says they are missing. Which status is current?"
+V2F031,2026-07-15,Post-Service Survey,Claim Submission,"Uploading several pages one by one is tedious, but it did not stop me from completing the claim."
+V2F032,2026-07-26,App Review,Claim Submission,Please add a visible timestamp beside each uploaded document so I can confirm what was sent and when.
+V2F033,2026-08-31,Chat,Claim Submission,The progress spinner ran for several minutes and never completed. I eventually closed the app without submitting.
+V2F034,2026-07-05,App Review,Claim Submission,I sent the invoice through the portal this morning. I am only checking that no further upload is needed.
+V2F035,2026-07-03,Post-Service Survey,Claim Submission,The file preview is too small to verify that I selected the correct document.
+V2F036,2026-08-06,Support Call,Claim Submission,The app recognized my receipt immediately and moved me to the review step without any trouble.
+V2F037,2026-07-13,App Review,Claim Submission,"I had to rename the file before the portal accepted it, but the naming rule was not shown in advance."
+V2F038,2026-07-26,Post-Service Survey,Claim Submission,There are two upload areas labelled 'supporting file.' I am unsure which one should contain the invoice.
+V2F039,2026-08-21,Support Call,Claim Submission,The claim form saved my text but not the attachment when my session timed out.
+V2F040,2026-07-25,Support Call,Claim Submission,A confirmation number after document submission would make the process feel more reliable.
+V2F041,2026-08-19,App Review,Claim Submission,"I am annoyed that the thumbnail is blurry, but the file was accepted and I could continue."
+V2F042,2026-08-19,Support Call,Claim Submission,Easy submission and a clear attachment summary.
+V2F043,2026-07-27,Support Call,Claim Submission,"I need to correct the treatment date before submitting, but the review screen sends me back to the beginning."
+V2F044,2026-07-09,Chat,Claim Submission,The claim form asks the same provider question on two consecutive screens.
+V2F045,2026-07-22,Support Call,Claim Submission,I was able to save a draft and return later with the missing paperwork. That worked well.
+V2F046,2026-07-29,Support Call,Claim Submission,"The submit button produced no response, and I cannot tell whether a claim was created."
+V2F047,2026-07-05,App Review,Claim Submission,"My connection dropped on the final step. When I reopened the app, the draft and attachments were still there."
+V2F048,2026-08-27,App Review,Claim Submission,The form accepted a future treatment date without warning me. I noticed it only on the review screen.
+V2F049,2026-07-22,App Review,Claim Submission,I want to submit receipts for several appointments together rather than open a separate claim for each one.
+V2F050,2026-07-01,Chat,Claim Submission,"The instructions are clear overall, but the difference between service date and invoice date could be explained better."
+V2F051,2026-07-21,App Review,Claim Tracking,The claim has shown 'in review' for six days with no indication of what happens next.
+V2F052,2026-07-05,Post-Service Survey,Claim Tracking,"I can see the current status, but I would also like the date of the last update."
+V2F053,2026-08-29,Post-Service Survey,Claim Tracking,What does assessment complete mean? The tracker does not say whether payment has been approved.
+V2F054,2026-08-10,Chat,Claim Tracking,The claim timeline was clear and useful.
+V2F055,2026-08-03,App Review,Claim Tracking,"My email says the claim was approved, while the app still shows it under review."
+V2F056,2026-07-23,Support Call,Claim Tracking,"There has been no movement since Monday, and I need an update before booking the follow-up treatment."
+V2F057,2026-07-23,Support Call,Claim Tracking,I keep opening the app because there is no notification when the claim changes stage.
+V2F058,2026-08-02,Support Call,Claim Tracking,"The status changed to action required, but there is no action listed anywhere on the page."
+V2F059,2026-07-28,App Review,Claim Tracking,I only need an estimated review time. The word pending does not help me plan.
+V2F060,2026-07-25,Chat,Claim Tracking,The claim disappeared from the tracker after I updated my phone. Support later confirmed it still exists.
+V2F061,2026-07-30,Post-Service Survey,Claim Tracking,"Please show whether the claim is waiting on me, the provider, or the review team."
+V2F062,2026-08-17,Chat,Claim Tracking,The tracker moved backwards from final review to document check without an explanation.
+V2F063,2026-08-11,Support Call,Claim Tracking,"I received three identical status emails today, although the claim itself did not change."
+V2F064,2026-08-18,Support Call,Claim Tracking,The app gave me a clear approval notification and linked directly to the payment details.
+V2F065,2026-08-15,Support Call,Claim Tracking,"My claim is marked closed, but I have not received a decision letter."
+V2F066,2026-07-02,Chat,Claim Tracking,"The progress steps are easy to understand, especially the note explaining what the team is reviewing."
+V2F067,2026-07-09,Support Call,Claim Tracking,I asked support for an update because the tracker had not changed for more than a week.
+V2F068,2026-08-14,App Review,Claim Tracking,The status page shows the month but not the exact submission date.
+V2F069,2026-07-02,Chat,Claim Tracking,Can status updates come by email?
+V2F070,2026-08-06,Chat,Claim Tracking,The estimated completion date passed yesterday and has not been replaced with a new estimate.
+V2F071,2026-07-07,Post-Service Survey,Claim Tracking,One screen says approved and another says processing. I am not sure which decision to rely on.
+V2F072,2026-07-12,Chat,Claim Tracking,"The tracker is fine for a simple claim, but it does not separate the two treatments included in mine."
+V2F073,2026-08-31,Chat,Claim Tracking,I appreciate that the latest status includes a plain-language explanation rather than an internal code.
+V2F074,2026-08-02,Post-Service Survey,Claim Tracking,Nothing looks broken; I just want to know how long claims at this stage usually take.
+V2F075,2026-07-02,Chat,Claim Tracking,"The claim was resolved quickly, but the status notification arrived a day after I saw the change in the app."
+V2F076,2026-07-01,Post-Service Survey,Claim Tracking,"I cannot open the status details—the page loads, flashes the timeline, and returns to the dashboard."
+V2F077,2026-07-06,Chat,Claim Tracking,"The tracker shows that more information was requested, but I cannot see when the request was sent."
+V2F078,2026-07-04,Support Call,Claim Tracking,Please add status history.
+V2F079,2026-07-31,Support Call,Claim Tracking,My closed claim is still labelled as new in the app badge count.
+V2F080,2026-08-18,App Review,Claim Tracking,The status updates were timely and I never needed to contact support.
+V2F081,2026-08-07,App Review,Reimbursement,"The approved amount reached my bank account today, exactly when the payment screen said it would."
+V2F082,2026-08-11,Chat,Reimbursement,I received a partial reimbursement but cannot see how the amount was calculated.
+V2F083,2026-07-17,Chat,Reimbursement,The claim is approved. When should the transfer appear in my account?
+V2F084,2026-08-16,Post-Service Survey,Reimbursement,The payment page lists a deductible without explaining which policy rule was applied.
+V2F085,2026-07-11,App Review,Reimbursement,"My bank details are correct, but the reimbursement has been pending for nine days."
+V2F086,2026-07-14,Post-Service Survey,Reimbursement,"The transfer arrived, although the reference on my bank statement does not match the claim number."
+V2F087,2026-07-04,Chat,Reimbursement,I expected 450 based on the approval letter and received 320. Please explain the difference.
+V2F088,2026-08-22,Support Call,Reimbursement,Please show how the payment was calculated.
+V2F089,2026-07-23,Post-Service Survey,Reimbursement,Payment was fast and matched the estimate.
+V2F090,2026-07-19,Post-Service Survey,Reimbursement,I changed banks after submitting the claim and need to know where the payment will be sent.
+V2F091,2026-07-06,Post-Service Survey,Reimbursement,"The app says paid, but there is no payment date or transaction reference."
+V2F092,2026-07-13,Chat,Reimbursement,"I am disappointed by the amount, but the calculation is clearly explained and there is no processing problem."
+V2F093,2026-08-28,Post-Service Survey,Reimbursement,"Two approved claims were combined into one transfer, making it difficult to reconcile the amounts."
+V2F094,2026-07-25,Post-Service Survey,Reimbursement,The payment failed and the app asks me to contact support without letting me update my account number.
+V2F095,2026-08-01,App Review,Reimbursement,"I only want confirmation that reimbursement is sent in business days, not calendar days."
+V2F096,2026-08-27,Post-Service Survey,Reimbursement,"The amount displayed in the app changed after approval, with no note explaining the adjustment."
+V2F097,2026-08-30,Support Call,Reimbursement,A downloadable payment statement would be useful for my records.
+V2F098,2026-07-13,Post-Service Survey,Reimbursement,"The decision letter explains coverage, but I cannot connect each line to the total reimbursement."
+V2F099,2026-07-07,Support Call,Reimbursement,Payment was promised within five days. It has now been twelve days and nothing has arrived.
+V2F100,2026-07-04,Chat,Reimbursement,"I got the reimbursement notification before the money appeared, which caused some confusion for a few hours."
+V2F101,2026-08-17,Support Call,Reimbursement,"The currency shown on the payment summary is wrong, although the deposited amount is correct."
+V2F102,2026-08-09,App Review,Reimbursement,Please let me choose whether reimbursement goes to my bank account or the medical provider.
+V2F103,2026-07-11,App Review,Reimbursement,"The transfer status and expected date were both visible, so I did not need to call anyone."
+V2F104,2026-07-15,Post-Service Survey,Reimbursement,My reimbursement was returned by the bank. I need a way to correct the details and resend it.
+V2F105,2026-07-19,Post-Service Survey,Reimbursement,The payment summary is understandable on desktop but the amount breakdown is cut off on my phone.
+V2F106,2026-07-03,App Review,Login & Account,"The verification code expired before it reached my phone, and requesting another code produced the same result."
+V2F107,2026-07-19,App Review,Login & Account,"I reset my password successfully, but the app still rejects the new password."
+V2F108,2026-08-20,App Review,Login & Account,Face ID stopped working after the update. I can still sign in with my password.
+V2F109,2026-08-24,Support Call,Login & Account,"The sign-in screen keeps refreshing, so I cannot reach my claims."
+V2F110,2026-08-08,Chat,Login & Account,I received the one-time code immediately and logged in without a problem.
+V2F111,2026-08-03,Chat,Login & Account,The password rules appear only after submission. Please show them while I am creating the password.
+V2F112,2026-08-23,Chat,Login & Account,I no longer use the phone number on my account and cannot receive the verification code.
+V2F113,2026-08-07,Chat,Login & Account,"The app logged me out while I was completing a claim, but my draft was preserved after I signed in again."
+V2F114,2026-07-27,Post-Service Survey,Login & Account,I entered the wrong password once and the account was locked without telling me how long to wait.
+V2F115,2026-07-24,App Review,Login & Account,"It is annoying to sign in again, but I was able to continue immediately and nothing was lost."
+V2F116,2026-07-20,Support Call,Login & Account,The reset link opens the app store instead of the password-reset screen.
+V2F117,2026-08-25,App Review,Login & Account,"I can access the website with my details, but the mobile app says the account does not exist."
+V2F118,2026-07-17,Post-Service Survey,Login & Account,Please offer an authenticator-app option instead of relying only on text messages.
+V2F119,2026-08-13,Chat,Login & Account,The email address field changes capitalization automatically and then login fails.
+V2F120,2026-07-24,App Review,Login & Account,Account setup was quick and clear.
+V2F121,2026-07-12,Chat,Login & Account,"My verification code works on the second attempt, but the first attempt always returns an error."
+V2F122,2026-07-01,Chat,Login & Account,I cannot update my surname because the profile field is locked.
+V2F123,2026-08-21,Support Call,Login & Account,The session timeout message gave me enough warning to save my work.
+V2F124,2026-08-05,Post-Service Survey,Login & Account,"Password reset says completed, yet I have received no email after several attempts."
+V2F125,2026-07-14,Chat,Login & Account,The account page shows my old address even after I saved the new one twice.
+V2F126,2026-08-15,App Review,General Support,"One conversation answered my question and clarified the next steps. I did not need to contact another team or repeat the details, which made the support experience feel coordinated."
+V2F127,2026-08-10,Chat,General Support,"I waited 25 minutes, then the call disconnected before anyone answered."
+V2F128,2026-08-04,Post-Service Survey,General Support,The chatbot understood that I needed claim status but kept repeating the same general FAQ.
+V2F129,2026-07-24,App Review,General Support,I explained the document issue to chat and had to repeat everything after being transferred to a call.
+V2F130,2026-07-28,Post-Service Survey,General Support,"Support was polite, but they could not see the attachment history shown in my app."
+V2F131,2026-08-12,Chat,General Support,I would prefer a callback option rather than staying on hold.
+V2F132,2026-07-21,Chat,General Support,The agent confirmed which document was missing and stayed with me until the upload succeeded.
+V2F133,2026-07-16,Post-Service Survey,General Support,My question was simple and the help article answered it without needing contact.
+V2F134,2026-08-20,Post-Service Survey,General Support,Chat closed after two minutes of inactivity while I was finding the claim number.
+V2F135,2026-08-04,Chat,General Support,"The reply arrived the next morning. That was acceptable, but an expected response time would help."
+V2F136,2026-08-12,Chat,General Support,I received different answers from two representatives about whether another form was required.
+V2F137,2026-07-22,Support Call,General Support,The support agent was helpful; the only inconvenience was navigating through several menu options first.
+V2F138,2026-08-13,Support Call,General Support,Please let me attach a screenshot to the chat so I can show the error instead of describing it.
+V2F139,2026-07-15,Post-Service Survey,General Support,The help centre search returns payment articles when I search for document upload.
+V2F140,2026-08-23,App Review,General Support,I requested an accessibility accommodation and the representative arranged it during the same call.
+V2F141,2026-07-21,Chat,General Support,"The automated phone menu sent me back to the main menu three times, so I could not reach the right team."
+V2F142,2026-08-14,Chat,General Support,"Support told me the claim was waiting for a document, but the app showed no missing item."
+V2F143,2026-08-09,Support Call,General Support,I contacted chat to ask about payment timing and received a clear answer within five minutes.
+V2F144,2026-07-10,Support Call,General Support,The case number from my call is not visible anywhere in the app.
+V2F145,2026-08-08,App Review,General Support,"The representative promised a follow-up yesterday, and I have not received it."
+V2F146,2026-08-01,Support Call,General Support,"The FAQ is easy to read, though it does not cover claims involving more than one provider."
+V2F147,2026-07-18,App Review,General Support,I want to switch from chat to a phone call without starting the explanation again.
+V2F148,2026-07-29,App Review,General Support,"Fast, friendly, and clear support."
+V2F149,2026-07-03,Post-Service Survey,General Support,"I am frustrated that the contact form has a 500-character limit, but I was still able to submit my question."
+V2F150,2026-08-24,Chat,General Support,There is no urgent problem; I am asking whether support is available outside business hours.

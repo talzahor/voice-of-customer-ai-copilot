@@ -1,0 +1,41 @@
+﻿feedback_id,theme_prediction,feedback_type_prediction,sentiment_prediction,severity_prediction
+V2F001,Document Requirements,Information Need,Neutral,Low
+V2F006,Document Requirements,Process Friction,Negative,Medium
+V2F008,Document Requirements,Process Friction,Negative,Medium
+V2F013,Document Requirements,Improvement Request,Neutral,Low
+V2F015,Document Requirements,Information Need,Neutral,Low
+V2F016,Document Upload,Technical Issue,Negative,Medium
+V2F020,Document Upload,Technical Issue,Negative,Medium
+V2F023,Document Upload,Process Friction,Negative,Medium
+V2F025,Document Upload,Technical Issue,Negative,High
+V2F032,Document Upload,Improvement Request,Neutral,Low
+V2F041,Document Upload,General Feedback,Negative,Low
+V2F043,Claim Submission & Form,Process Friction,Negative,Medium
+V2F045,Claim Submission & Form,Compliment,Positive,No Issue
+V2F046,Claim Submission & Form,Technical Issue,Negative,High
+V2F048,Claim Submission & Form,Technical Issue,Negative,Low
+V2F049,Claim Submission & Form,Improvement Request,Neutral,Low
+V2F053,Claim Status,Information Need,Neutral,Low
+V2F055,Claim Status,Technical Issue,Negative,Medium
+V2F060,Claim Status,Technical Issue,Negative,Medium
+V2F067,Claim Status,Process Friction,Negative,Medium
+V2F074,Claim Status,Information Need,Neutral,No Issue
+V2F082,Reimbursement,Information Need,Neutral,Low
+V2F092,Reimbursement,General Feedback,Negative,Low
+V2F094,Reimbursement,Technical Issue,Negative,High
+V2F099,Reimbursement,Process Friction,Negative,High
+V2F101,Reimbursement,Technical Issue,Negative,Low
+V2F108,Login & Account,Technical Issue,Negative,Low
+V2F109,Login & Account,Technical Issue,Negative,High
+V2F111,Login & Account,Improvement Request,Neutral,Low
+V2F115,Login & Account,General Feedback,Negative,Low
+V2F117,Login & Account,Technical Issue,Negative,High
+V2F126,Customer Support,Compliment,Positive,No Issue
+V2F127,Customer Support,Process Friction,Negative,Medium
+V2F129,Customer Support,Process Friction,Negative,Medium
+V2F136,Customer Support,Process Friction,Negative,Medium
+V2F137,Customer Support,Compliment,Positive,Low
+V2F145,Customer Support,Process Friction,Negative,Medium
+V2F047,Claim Submission & Form,Compliment,Positive,No Issue
+V2F050,Document Requirements,Improvement Request,Neutral,Low
+V2F075,Claim Status,Compliment,Positive,Low

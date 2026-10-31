@@ -1,0 +1,151 @@
+﻿feedback_id,date,channel,journey_stage,feedback_text
+F030,2026-07-01,Post-Service Survey,Claim Submission,"Honestly, Not sure whether my receipt was uploaded successfully."
+F103,2026-07-01,Post-Service Survey,General Support,I waited too long to get an answer from customer support.
+F003,2026-07-02,App Review,Claim Submission,I don't understand which documents I need to upload for my claim.
+F024,2026-07-02,Chat,Claim Submission,The document requirements are really unclear.
+F134,2026-07-02,Post-Service Survey,Claim Submission,I don't understand which documents I need to upload for my claim.
+F009,2026-07-03,Support Call,Login & Account,I can't log into my account even after resetting my password.
+F054,2026-07-03,App Review,Claim Submission,The document requirements are really unclear.
+F065,2026-07-03,Post-Service Survey,Claim Submission,I need clearer instructions about what paperwork is required.
+F035,2026-07-04,Chat,Claim Tracking,My claim has been in progress for days and I have no idea what's happening.
+F043,2026-07-04,Chat,Claim Submission,"Honestly, I got an answer quickly and the service was helpful."
+F031,2026-07-05,Chat,Reimbursement,When will the approved reimbursement be paid?
+F048,2026-07-05,Support Call,Reimbursement,This is frustrating. I need a clearer explanation of how my reimbursement was calculated.
+F100,2026-07-05,Post-Service Survey,Reimbursement,I don't know when the reimbursement will reach my bank account.
+F008,2026-07-06,Support Call,Reimbursement,I need a clearer explanation of how my reimbursement was calculated.
+F112,2026-07-06,Post-Service Survey,Claim Tracking,I keep checking the app because the claim status never changes.
+F137,2026-07-06,Support Call,Claim Tracking,There hasn't been any update on my claim.
+F006,2026-07-07,Post-Service Survey,Claim Submission,I need clearer instructions about what paperwork is required.
+F029,2026-07-08,Chat,Claim Submission,Please help — I need clearer instructions about what paperwork is required.
+F140,2026-07-08,Support Call,Login & Account,The claim process was faster than I expected.
+F018,2026-07-10,App Review,Login & Account,I keep getting an error when I try to sign in.
+F041,2026-07-10,Support Call,Claim Submission,I don't understand which documents I need to upload for my claim.
+F012,2026-07-11,Chat,Claim Tracking,I keep checking the app because the claim status never changes.
+F098,2026-07-11,Support Call,Reimbursement,The payment amount is different from what I expected.
+F127,2026-07-11,Chat,Claim Submission,I can't tell if the file I sent was actually received.
+F059,2026-07-12,Chat,Login & Account,Password reset is not working for me.
+F096,2026-07-13,App Review,General Support,The chatbot couldn't answer my question and sent me to call support.
+F015,2026-07-14,Chat,Login & Account,Please help — Password reset is not working for me.
+F039,2026-07-14,App Review,General Support,The chatbot couldn't answer my question and sent me to call support.
+F004,2026-07-15,Chat,Claim Tracking,My claim has been in progress for days and I have no idea what's happening.
+F061,2026-07-15,Chat,Claim Submission,I need clearer instructions about what paperwork is required.
+F062,2026-07-15,Support Call,Claim Submission,It keeps showing missing documents even though I uploaded everything.
+F075,2026-07-15,Support Call,General Support,I waited too long to get an answer from customer support.
+F123,2026-07-16,App Review,Claim Submission,Not sure whether my receipt was uploaded successfully.
+F027,2026-07-17,Chat,Reimbursement,When will the approved reimbursement be paid?
+F040,2026-07-17,App Review,Login & Account,The app was easy to use this time.
+F067,2026-07-17,Chat,Claim Submission,I don't understand which documents I need to upload for my claim.
+F094,2026-07-17,Support Call,General Support,I waited too long to get an answer from customer support.
+F052,2026-07-18,Post-Service Survey,Claim Tracking,I keep checking the app because the claim status never changes.
+F060,2026-07-18,App Review,Claim Submission,It keeps showing missing documents even though I uploaded everything.
+F084,2026-07-18,App Review,Claim Tracking,Please help — My claim has been in progress for days and I have no idea what's happening.
+F116,2026-07-18,Support Call,Login & Account,I keep getting an error when I try to sign in.
+F118,2026-07-18,Chat,Claim Submission,The document requirements are really unclear.
+F128,2026-07-19,Post-Service Survey,Login & Account,I can't log into my account even after resetting my password.
+F144,2026-07-20,App Review,Reimbursement,"Honestly, When will the approved reimbursement be paid?"
+F106,2026-07-21,Chat,General Support,I had to explain the same issue again to another representative.
+F109,2026-07-22,Support Call,Claim Tracking,I keep checking the app because the claim status never changes.
+F114,2026-07-23,Support Call,Login & Account,The app logged me out and I can't get back in.
+F017,2026-07-24,Support Call,Claim Submission,"Honestly, I can't tell if the file I sent was actually received."
+F068,2026-07-24,Support Call,Claim Tracking,When should I expect the next update on my claim?
+F010,2026-07-25,Chat,Claim Tracking,I wish the claim status explained what stage my request is in.
+F014,2026-07-26,Post-Service Survey,Claim Tracking,When should I expect the next update on my claim?
+F044,2026-07-26,Support Call,Claim Submission,Not sure whether my receipt was uploaded successfully.
+F070,2026-07-26,App Review,Login & Account,The verification code never arrived.
+F034,2026-07-28,Support Call,Claim Tracking,I keep checking the app because the claim status never changes.
+F066,2026-07-28,Chat,Reimbursement,I don't know when the reimbursement will reach my bank account.
+F082,2026-07-29,App Review,Claim Tracking,I keep checking the app because the claim status never changes.
+F124,2026-07-29,Post-Service Survey,Reimbursement,The claim process was faster than I expected.
+F133,2026-07-29,Post-Service Survey,Claim Submission,It keeps showing missing documents even though I uploaded everything.
+F021,2026-07-30,Support Call,Claim Submission,I uploaded the medical form already and it still asks me for documents.
+F047,2026-07-30,Support Call,Claim Tracking,My claim has been in progress for days and I have no idea what's happening.
+F073,2026-07-30,Chat,Claim Tracking,When should I expect the next update on my claim?
+F076,2026-07-30,App Review,Claim Tracking,I wish the claim status explained what stage my request is in.
+F093,2026-07-30,App Review,Claim Tracking,There hasn't been any update on my claim.
+F147,2026-07-30,Chat,Reimbursement,The payment amount is different from what I expected.
+F113,2026-07-31,Post-Service Survey,Reimbursement,When will the approved reimbursement be paid?
+F120,2026-07-31,Post-Service Survey,Reimbursement,The payment amount is different from what I expected.
+F077,2026-08-01,Support Call,Claim Tracking,I keep checking the app because the claim status never changes.
+F089,2026-08-01,App Review,Claim Submission,This is frustrating. I can't tell if the file I sent was actually received.
+F108,2026-08-01,Post-Service Survey,General Support,It took too long to reach someone who could help me.
+F053,2026-08-02,Post-Service Survey,Claim Tracking,My claim has been in progress for days and I have no idea what's happening.
+F146,2026-08-02,Chat,Login & Account,Password reset is not working for me.
+F019,2026-08-03,Support Call,Claim Submission,I don't understand which documents I need to upload for my claim.
+F110,2026-08-03,App Review,Claim Submission,I got an answer quickly and the service was helpful.
+F036,2026-08-04,Chat,Claim Tracking,I wish the claim status explained what stage my request is in.
+F086,2026-08-04,App Review,Claim Tracking,I wish the claim status explained what stage my request is in.
+F102,2026-08-04,Post-Service Survey,Claim Tracking,My claim has been in progress for days and I have no idea what's happening.
+F150,2026-08-04,App Review,Claim Tracking,When should I expect the next update on my claim?
+F055,2026-08-05,Post-Service Survey,Claim Submission,I uploaded the medical form already and it still asks me for documents.
+F072,2026-08-05,Post-Service Survey,General Support,I had to explain the same issue again to another representative.
+F079,2026-08-05,Post-Service Survey,Claim Submission,I can't tell if the file I sent was actually received.
+F111,2026-08-05,Support Call,Login & Account,Password reset is not working for me.
+F122,2026-08-06,Support Call,Reimbursement,This is frustrating. The payment amount is different from what I expected.
+F125,2026-08-06,Chat,Reimbursement,I don't know when the reimbursement will reach my bank account.
+F135,2026-08-06,App Review,Claim Submission,I can't tell if the file I sent was actually received.
+F056,2026-08-07,Support Call,Reimbursement,This is frustrating. The payment amount is different from what I expected.
+F099,2026-08-07,Chat,Claim Submission,It keeps showing missing documents even though I uploaded everything.
+F131,2026-08-08,App Review,Login & Account,The app logged me out and I can't get back in.
+F045,2026-08-09,Chat,Claim Submission,I need clearer instructions about what paperwork is required.
+F050,2026-08-09,Post-Service Survey,General Support,The process was clear and easy to complete.
+F105,2026-08-09,Post-Service Survey,General Support,It took too long to reach someone who could help me.
+F001,2026-08-10,Support Call,Claim Submission,Not sure whether my receipt was uploaded successfully.
+F083,2026-08-10,Chat,Claim Submission,The app says a document is missing but doesn't tell me which one.
+F104,2026-08-10,Post-Service Survey,General Support,The chatbot couldn't answer my question and sent me to call support.
+F119,2026-08-10,Post-Service Survey,General Support,I waited too long to get an answer from customer support.
+F126,2026-08-10,Support Call,Claim Submission,I uploaded the medical form already and it still asks me for documents.
+F142,2026-08-10,Chat,Claim Tracking,I wish the claim status explained what stage my request is in.
+F130,2026-08-11,Post-Service Survey,Claim Submission,Please help — I uploaded the medical form already and it still asks me for documents.
+F011,2026-08-12,Chat,Claim Submission,I uploaded the medical form already and it still asks me for documents.
+F046,2026-08-12,Post-Service Survey,Login & Account,The app logged me out and I can't get back in.
+F074,2026-08-12,Post-Service Survey,Claim Submission,Please help — I need clearer instructions about what paperwork is required.
+F097,2026-08-12,Post-Service Survey,Claim Submission,I can't tell if the file I sent was actually received.
+F141,2026-08-12,App Review,General Support,This is frustrating. It took too long to reach someone who could help me.
+F002,2026-08-13,Support Call,Login & Account,I can't log into my account even after resetting my password.
+F013,2026-08-13,Post-Service Survey,Claim Submission,Not sure whether my receipt was uploaded successfully.
+F020,2026-08-13,Chat,General Support,I had to explain the same issue again to another representative.
+F071,2026-08-13,App Review,Login & Account,I keep getting an error when I try to sign in.
+F005,2026-08-14,Post-Service Survey,Claim Tracking,I wish the claim status explained what stage my request is in.
+F085,2026-08-14,Post-Service Survey,Claim Submission,The app says a document is missing but doesn't tell me which one.
+F132,2026-08-14,App Review,Claim Submission,The document requirements are really unclear.
+F028,2026-08-15,App Review,Claim Submission,I can't tell if the file I sent was actually received.
+F032,2026-08-16,App Review,General Support,The claim process was faster than I expected.
+F069,2026-08-16,Post-Service Survey,General Support,I had to explain the same issue again to another representative.
+F090,2026-08-16,Support Call,Claim Submission,I uploaded the medical form already and it still asks me for documents.
+F115,2026-08-16,App Review,Claim Submission,I uploaded the medical form already and it still asks me for documents.
+F016,2026-08-17,App Review,Reimbursement,I received a payment but I don't understand the amount.
+F042,2026-08-17,Chat,Claim Submission,I can't tell if the file I sent was actually received.
+F023,2026-08-18,App Review,Claim Submission,I don't understand which documents I need to upload for my claim.
+F026,2026-08-18,Chat,Claim Tracking,I wish the claim status explained what stage my request is in.
+F107,2026-08-18,Support Call,Claim Tracking,I keep checking the app because the claim status never changes.
+F078,2026-08-19,Support Call,Claim Tracking,I keep checking the app because the claim status never changes.
+F129,2026-08-20,Chat,General Support,The chatbot couldn't answer my question and sent me to call support.
+F007,2026-08-21,App Review,Claim Submission,The app says a document is missing but doesn't tell me which one.
+F033,2026-08-21,Post-Service Survey,Claim Tracking,My claim has been in progress for days and I have no idea what's happening.
+F139,2026-08-22,Post-Service Survey,Login & Account,This is frustrating. Password reset is not working for me.
+F149,2026-08-22,App Review,Claim Submission,I can't tell if the file I sent was actually received.
+F081,2026-08-23,App Review,General Support,The chatbot couldn't answer my question and sent me to call support.
+F117,2026-08-23,Chat,Claim Submission,"Honestly, I need clearer instructions about what paperwork is required."
+F101,2026-08-24,Post-Service Survey,Login & Account,I keep getting an error when I try to sign in.
+F138,2026-08-24,App Review,Claim Submission,I can't tell if the file I sent was actually received.
+F022,2026-08-25,Post-Service Survey,Reimbursement,I received a payment but I don't understand the amount.
+F037,2026-08-25,Support Call,Login & Account,"Honestly, The claim process was faster than I expected."
+F092,2026-08-25,Chat,Claim Tracking,There hasn't been any update on my claim.
+F148,2026-08-25,Post-Service Survey,Claim Submission,I need clearer instructions about what paperwork is required.
+F025,2026-08-26,Support Call,Reimbursement,I don't know when the reimbursement will reach my bank account.
+F049,2026-08-26,Post-Service Survey,Claim Submission,I uploaded the medical form already and it still asks me for documents.
+F057,2026-08-27,Chat,Claim Tracking,I keep checking the app because the claim status never changes.
+F087,2026-08-27,Support Call,Login & Account,I keep getting an error when I try to sign in.
+F091,2026-08-28,Chat,Claim Tracking,I keep checking the app because the claim status never changes.
+F136,2026-08-28,App Review,Claim Submission,It keeps showing missing documents even though I uploaded everything.
+F038,2026-08-29,App Review,Login & Account,The verification code never arrived.
+F051,2026-08-29,Chat,Reimbursement,"Honestly, I need a clearer explanation of how my reimbursement was calculated."
+F058,2026-08-29,Support Call,Claim Tracking,I got an answer quickly and the service was helpful.
+F143,2026-08-29,Chat,Claim Submission,Please help — The app says a document is missing but doesn't tell me which one.
+F064,2026-08-30,Post-Service Survey,Claim Submission,I uploaded the medical form already and it still asks me for documents.
+F080,2026-08-30,App Review,Login & Account,I keep getting an error when I try to sign in.
+F088,2026-08-30,Chat,Claim Tracking,The status just says in progress and gives me no useful information.
+F095,2026-08-30,Chat,Claim Tracking,"Honestly, I keep checking the app because the claim status never changes."
+F121,2026-08-30,Support Call,General Support,I waited too long to get an answer from customer support.
+F145,2026-08-30,Post-Service Survey,Claim Submission,I can't tell if the file I sent was actually received.
+F063,2026-08-31,Post-Service Survey,General Support,I would rather solve this online than call customer service.
