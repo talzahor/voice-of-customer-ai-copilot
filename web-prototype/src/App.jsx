@@ -33,7 +33,7 @@ function useFeedback() {
   const [records, setRecords] = useState([])
   const [error, setError] = useState('')
   useEffect(() => {
-    fetch('/customer_feedback_classified.csv')
+    fetch('./customer_feedback_classified.csv')
       .then((response) => { if (!response.ok) throw new Error('Could not load the classified feedback file.'); return response.text() })
       .then((text) => setRecords(parseCsv(text)))
       .catch((err) => setError(err.message))
