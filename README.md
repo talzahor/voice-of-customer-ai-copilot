@@ -51,7 +51,7 @@ Faster synthesis, earlier visibility into recurring friction, and evidence-backe
 
 ## The web prototype
 
-`web-prototype/` is a local, desktop-first React + Vite prototype that walks a PM from a high-level overview to an insight, its original evidence, and a structured product action. It reads a local copy of the classified synthetic CSV in the browser. **There is no backend and no live AI API call.**
+`web-prototype/` is a local, responsive (desktop and mobile) React + Vite prototype that walks a PM from a high-level overview to an insight, its original evidence, and a structured product action. It reads a local copy of the classified synthetic CSV in the browser. **There is no backend and no live AI API call.**
 
 ### 1. Overview: where is customer friction showing up?
 
@@ -222,7 +222,7 @@ pnpm install --frozen-lockfile
 pnpm dev
 ```
 
-Open the local URL Vite prints, normally <http://localhost:5173>. The four screens are at `/overview`, `/insights/document-upload`, `/evidence/document-upload`, and `/product-action/document-upload`. You can also click through them starting from **View Insight** on the overview.
+Open the local URL Vite prints, normally <http://localhost:5173>. The four screens are at `/#/overview`, `/#/insights/document-upload`, `/#/evidence/document-upload`, and `/#/product-action/document-upload` (hash routing, so the static build works on GitHub Pages). You can also click through them starting from **View Insight** on the overview.
 
 `pnpm build` produces a static build in `web-prototype/dist/`.
 
